@@ -1,4 +1,6 @@
 # FORC-Analysis
+[![DOI](https://zenodo.org/badge/279344258.svg)](https://zenodo.org/badge/latestdoi/279344258)
+
 First Order Reversal Curve (FORC) data and code
 
 This is an archive of the code and data used to reproduce the analysis of FORC data and corresponding figures presented in "Quality Metrics for First Order Reversal Curve (FORC) Measurements and Analysis" by C.L. Dennis, S.P. Lund, and R.D. Shull.
